@@ -1,0 +1,22 @@
+.contenedor {
+  width: 300px;
+  border: 15px solid lightblue;
+  padding: 50px;
+  margin: 20px;
+  max-width: 30rem;
+  background-color: whitesmoke;
+}
+
+#fotos{
+    width: 10rem;
+    border-radius: 8px;
+}
+
+body{
+    background-color: lightgray;
+    
+}
+
+img{
+    width: 10rem;
+}
